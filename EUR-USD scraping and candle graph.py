@@ -23,7 +23,7 @@ mpf.plot(
     mav=(20,50),         
     volume=True,
     style='yahoo',
-    title=f'EURUSD candle graph for 2 weeks ',
+    title=f'EURUSD candle graph for 1 weeks ',
     ylabel='Price',
     ylabel_lower='Volume')
 
